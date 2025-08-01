@@ -1,0 +1,17 @@
+{
+  "apiName": "hotfix_module",
+  "label": {
+    "zh_CN": "hotfix_module",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "hotfix module 组件描述",
+    "en_US": "hotfix module component description"
+  },
+  "device": [
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}
