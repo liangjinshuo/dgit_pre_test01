@@ -1,0 +1,16 @@
+{
+  "apiID": "package_0259f6__c__function_aadirr4wj5ilu",
+  "apiName": "node20_cli",
+  "label": {
+    "zh_CN": "node 20 cli",
+    "en_US": "node 20 cli"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
