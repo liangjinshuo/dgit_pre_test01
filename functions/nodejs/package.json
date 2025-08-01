@@ -6,5 +6,5 @@
     "@byted-apaas/server-common-node": "2.0.25",
     "@byted-apaas/server-sdk-node": "1.1.24"
   },
-  "runtime": "20.10.0"
+  "runtime": "14.17.5"
 }

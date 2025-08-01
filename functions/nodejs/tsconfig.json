@@ -12,8 +12,8 @@
   },
   "include": [
     "**/*",
-    "../../.kldx/typings/cloud_function_20/*.d.ts",
-    "../../.ae/typings/cloud_function_20/*.d.ts"
+    "../../.kldx/typings/cloud_function/*.d.ts",
+    "../../.ae/typings/cloud_function/*.d.ts"
   ],
   "exclude": [
     "node_modules"
